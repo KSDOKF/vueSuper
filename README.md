@@ -1,4 +1,4 @@
-# vuepur
+# vueSuper
 
 ## Project setup
 ```
